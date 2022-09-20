@@ -1,4 +1,3 @@
 Nama	: Ahmad Khainur Nadhif
 Stack	: Frontend
 Branch	: main
-
